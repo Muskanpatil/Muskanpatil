@@ -4,9 +4,10 @@
 
 ### Full-Stack Engineer · MERN + TypeScript
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-muskan--patil--dev-blue?style=flat&logo=linkedin)](https://linkedin.com/muskan-patil-dev)
-[![GitHub](https://img.shields.io/badge/GitHub-your--username-black?style=flat&logo=github)](https://github.com/Muskanpatil)
-[![Email](https://img.shields.io/badge/Email-youremail@gmail.com-red?style=flat&logo=gmail)](mailto:muskanpatil2004@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-muskan--patil--dev-blue?style=flat&logo=linkedin)](https://linkedin.com/in/muskan-patil-dev)
+[![GitHub](https://img.shields.io/badge/GitHub-Muskanpatil-black?style=flat&logo=github)](https://github.com/Muskanpatil)
+[![Email](https://img.shields.io/badge/Email-muskanpatil2004%40gmail.com-red?style=flat&logo=gmail)](mailto:muskanpatil2004@gmail.com)
+
 📍 Nagpur, India &nbsp;|&nbsp; 🟢 Open to Remote Roles
 
 </div>
@@ -119,11 +120,11 @@ SSR + PWA hotel booking site with offline cart support.
 
 <div align="center">
 
-![Muskan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![Muskan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muskanpatil&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muskanpatil&layout=compact&theme=dark&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Muskanpatil&theme=dark&hide_border=true)
 
 </div>
 
@@ -136,7 +137,7 @@ interesting conversations about backend architecture,
 pricing systems, or hospitality tech.
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muskan-patil-dev)
-[![Email](https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+[![Email](https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muskanpatil2004@gmail.com)
 
 ---
 

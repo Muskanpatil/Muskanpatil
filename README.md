@@ -120,9 +120,10 @@ SSR + PWA hotel booking site with offline cart support.
 
 <div align="center">
 
-![Muskan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muskanpatil&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![Muskan's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Muskanpatil&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muskanpatil&layout=compact&theme=dark&hide_border=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Muskanpatil&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Muskanpatil&theme=github_dark)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Muskanpatil&theme=dark&hide_border=true)
 

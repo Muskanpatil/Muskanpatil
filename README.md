@@ -1,14 +1,20 @@
 <div align="center">
 
-# Muskan Patil
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6D28D9&height=120&section=header&text=Muskan%20Patil&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%C2%B7%20MERN%20%2B%20TypeScript&descAlignY=60&descSize=18" />
 
-### Full-Stack Engineer · MERN + TypeScript
+<p>
+  <a href="https://linkedin.com/in/muskan-patil-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:muskanpatil2004@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Muskanpatil">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-muskan--patil--dev-blue?style=flat&logo=linkedin)](https://linkedin.com/in/muskan-patil-dev)
-[![GitHub](https://img.shields.io/badge/GitHub-Muskanpatil-black?style=flat&logo=github)](https://github.com/Muskanpatil)
-[![Email](https://img.shields.io/badge/Email-muskanpatil2004%40gmail.com-red?style=flat&logo=gmail)](mailto:muskanpatil2004@gmail.com)
-
-📍 Nagpur, India &nbsp;|&nbsp; 🟢 Open to Remote Roles
+<p>📍 Nagpur, India &nbsp;|&nbsp; 🟢 Open to Relocation</p>
 
 </div>
 
